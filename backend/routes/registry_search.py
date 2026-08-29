@@ -1,0 +1,1 @@
+# /registry-search link-out implementation
